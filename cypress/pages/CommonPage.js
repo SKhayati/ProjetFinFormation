@@ -6,3 +6,4 @@ export class CommonPage {
         cy.visit(url)
     }
 }
+// test git
